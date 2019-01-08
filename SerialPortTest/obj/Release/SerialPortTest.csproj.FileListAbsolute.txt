@@ -1,0 +1,14 @@
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\bin\Release\SerialPortTest.exe
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\bin\Release\SerialPortTest.pdb
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest.csprojAssemblyReference.cache
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\MainWindow.g.cs
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\App.g.cs
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest_MarkupCompile.cache
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest_MarkupCompile.lref
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\MainWindow.baml
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest.g.resources
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest.Properties.Resources.resources
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest.csproj.GenerateResource.cache
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest.csproj.CoreCompileInputs.cache
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest.exe
+D:\MyCode\SerialPort\SerialPortTest\SerialPortTest\obj\Release\SerialPortTest.pdb
